@@ -7,5 +7,5 @@ numero = {n1,n2,n3}
 cresente = sorted (numero)
 print("ordem cresente:",cresente)
 
-decresente = sorted (numero, reverse=True)
-print("ordem decresente",decresente)
+decrescente = sorted (numero, reverse=True)
+print("ordem decrescente",decrescente)
